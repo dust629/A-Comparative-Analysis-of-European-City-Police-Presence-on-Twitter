@@ -1,0 +1,8 @@
+,Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+6,14,amp_yesterday_night_people_today,"[0, 1, 2, 3, 4, 5, 6, 7]",7,str_allee_damm_danziger_prenzlauer,13,amp_yesterday_night_people_today,0.6869548680853033
+5,13,amp_yesterday_night_people_today,"[0, 1, 2, 3, 4, 5, 6]",12,amp_yesterday_night_people_today,3,doesn_shoot_want_people_yes,0.5873071842789457
+4,12,amp_yesterday_night_people_today,"[0, 1, 2, 4, 5, 6]",11,amp_yesterday_night_today_people,5,caller_car_apartment_woman_man,0.5033401792804371
+3,11,amp_yesterday_night_today_people,"[0, 1, 2, 4, 6]",6,information_identified_tsm_yes_available,10,amp_yesterday_night_today_people,0.4863205650243563
+2,10,amp_yesterday_night_today_people,"[0, 1, 2, 4]",9,amp_yesterday_night_today_people,4,investigations_warrants_suspects_arrest_prosecutor,0.47386162686133293
+1,9,amp_yesterday_night_today_people,"[0, 1, 2]",8,amp_today_currently_people_yesterday,1,old_year_man_yesterday_car,0.4703923428893714
+0,8,amp_today_currently_people_yesterday,"[0, 2]",2,good_don_time_today_home,0,today_area_currently_amp_bomb,0.46222440805816956

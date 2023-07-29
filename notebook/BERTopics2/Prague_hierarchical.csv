@@ -1,0 +1,14 @@
+,Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+12,26,prague_officers_city_police_patrol,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",13,know____,25,prague_officers_city_police_patrol,0.9072325907406185
+11,25,prague_officers_city_police_patrol,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",24,prague_officers_city_police_patrol,11,soon_police___,0.9065500294906466
+10,24,prague_officers_city_police_patrol,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12]",12,render_arrives_collapses_assistance_directing,23,prague_officers_city_police_night,0.8846505787748075
+9,23,prague_officers_city_police_night,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",22,prague_officers_city_police_night,9,thank_nice_disturbed_deceased_comes,0.8785738413621735
+8,22,prague_officers_city_police_night,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 10]",21,prague_officers_city_police_line,3,question_cz_send_sprayers_info,0.858849779568159
+7,21,prague_officers_city_police_line,"[0, 1, 2, 4, 5, 6, 7, 8, 10]",20,prague_officers_city_police_department,5,program_issue_magazine_episode_chessboard,0.8562817061900406
+6,20,prague_officers_city_police_department,"[0, 1, 2, 4, 6, 7, 8, 10]",18,prague_officers_driver_police_influence,19,prague_officers_city_police_department,0.8460983457801043
+5,19,prague_officers_city_police_department,"[0, 1, 2, 4, 7]",17,prague_officers_city_police_municipal,7,information_looks_normal_expensive_interested,0.827372789284375
+4,18,prague_officers_driver_police_influence,"[6, 8, 10]",15,prague_officers_driver_influence_drugs,6,man_old_young_ended_ran,0.8226879878071653
+3,17,prague_officers_city_police_municipal,"[0, 1, 2, 4]",16,prague_officers_city_police_department,4,traffic_closed_places_order_parking,0.8069131222689037
+2,16,prague_officers_city_police_department,"[0, 1, 2]",1,reports_rally_training_radotn_directors,14,prague_officers_city_police_award,0.8045806421662492
+1,15,prague_officers_driver_influence_drugs,"[8, 10]",10,influence_drugs_arrested_driver_case,8,drunk_wanted_driver_parked_network,0.7997580110539916
+0,14,prague_officers_city_police_award,"[0, 2]",2,director_mayor_eduard_award_uster,0,ventilate_material_recommendation_collected_forces,0.7896968624879054

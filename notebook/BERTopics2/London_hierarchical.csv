@@ -1,0 +1,11 @@
+,Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+9,20,amp_report_help_online_officers,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]",9,danger_damagedfor_matters_progress_urgent,19,amp_help_report_online_officers,0.923871644547621
+8,19,amp_help_report_online_officers,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 10]",18,amp_help_report_online_officers,10,tweet_tell_save_looking_want,0.8366172339573617
+7,18,amp_help_report_online_officers,"[0, 1, 2, 3, 4, 5, 6, 7, 8]",2,dm_discuss_hi_good_thanks,17,amp_help_online_report_officers,0.758450119543226
+6,17,amp_help_online_report_officers,"[0, 1, 3, 4, 5, 6, 7, 8]",16,amp_help_officers_local_online,8,click_triaged_simply_automated_handler,0.7236412140577535
+5,16,amp_help_officers_local_online,"[0, 1, 3, 4, 5, 6, 7]",15,amp_officers_local_help_online,5,latest_footage_emergency_council_upload,0.638019852871019
+4,15,amp_officers_local_help_online,"[0, 1, 3, 4, 6, 7]",14,amp_officers_local_help_online,6,patience_reopened_thank_passed_informed,0.5484605993176834
+3,14,amp_officers_local_help_online,"[0, 1, 3, 4, 7]",7,local_emotional_available_teams_team,13,amp_officers_help_online_report,0.5429408146565544
+2,13,amp_officers_help_online_report,"[0, 1, 3, 4]",3,valuables_protect_surroundings_sight_stay,12,officers_amp_report_online_help,0.48647578816851245
+1,12,officers_amp_report_online_help,"[0, 1, 4]",11,officers_amp_report_online_website,4,man_jailed_arrested_charged_murder,0.46236059089539994
+0,11,officers_amp_report_online_website,"[0, 1]",1,met_women_london_londoners_staff,0,traffic_road_collision_incident_website,0.4508153540240274
