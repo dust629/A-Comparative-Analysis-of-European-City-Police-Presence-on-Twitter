@@ -37,3 +37,6 @@ In this notebook the original twitter data is collected via API and stored in `d
 - find preprocessing code for _translated tweets_ and _topically preprocces_
 
 
+https://github.com/ravinitheshreddy/Enriching-RICH-Data/tree/main
+https://github.com/ravinitheshreddy/IMAJ-childrens-drawings
+
