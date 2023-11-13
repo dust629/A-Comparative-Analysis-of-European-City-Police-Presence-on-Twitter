@@ -1,0 +1,39 @@
+# Readme
+
+## Structure
+### Notebooks:
+All the analysis is made by using the rescues in the notebooks folder.
+This folder contains codes in 3 jupyter notebooks; twitter account related documentation; used collected twitter data and cleaned tweets data; generated plots and topic modelling results. 
+
+README.md in notebooks:
+* tweets_collection_preprocess.ipynb:
+::required folder or files:
+        -data/orginal_twitter/
+	-data/tweets/
+	-account_information/name_min_id.csv
+	::
+In this notebook the original twitter data is collected via API and stored in `data/orginal_twitter/added_account_tweets` .   Search tweets and account tweets are accumulated collected by updating min_id which stored in `account_information/name_min_id.csv`. The original collected twitter data is stored in `added_search_tweets` and `added_account_tweets` . With the critirum discussed in the [report](../report.pdf), collected search tweets are filtered out. Finally, all tweets data is merged into correspond city accounts for the further analysis and stored in `data/tweets`, separately in `all_search_city21`  and `all_account_city`  .  Also stored search tweets after merged the same city in  `all_search_city`
+* plot_analysis_4-6.ipynb:
+::required folder:
+        -analysis_result/plots/
+	-account_information/
+	-data/tweets::
+	This notebook generates all the plots we used for analysis, in chapter 4, chapter 5 and chapter 6, which stored in `anaslysis_result/plots`
+* content_analysis_7.ipynb:
+::required folder:
+ 	-analysis_result/
+	-data/tweets/translated_search_city
+-data/tweets/translated_account_city
+-data/tweets/processed_search_tweets/
+-data/tweets/processed_account_tweets/
+-data/tweets/topically_processed_search_tweets/
+-data/tweets/topically_processed_account_tweets/::
+
+
+# TODO
+
+- document all codes and function[notebooks]
+- document overall readme for repository
+- find preprocessing code for _translated tweets_ and _topically preprocces_
+
+
