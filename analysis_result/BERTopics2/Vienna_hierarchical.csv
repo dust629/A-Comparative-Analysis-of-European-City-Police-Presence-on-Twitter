@@ -1,0 +1,14 @@
+,Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+12,26,releases_amp_information_case_just,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",13,thanks_tip_thank_ll_look,25,releases_amp_information_case_course,0.8250077364673717
+11,25,releases_amp_information_case_course,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",9,gladly_searched_love_yes_gerne,24,releases_amp_information_case_don,0.7901100132608565
+10,24,releases_amp_information_case_don,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12]",23,releases_amp_information_case_course,11,number_click_report_pol_thread,0.7174885287566042
+9,23,releases_amp_information_case_course,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 12]",21,releases_amp_way_person_old,22,case_information_don_course_just,0.6818160220890699
+8,22,case_information_don_course_just,"[0, 2, 3, 5, 6, 7, 10, 12]",12,forwarded_stopped_prohibition_progress_responsible,20,case_information_don_course_just,0.6707815910695116
+7,21,releases_amp_way_person_old,"[1, 4, 8]",14,way_person_takes_noise_care,8,old_releases_year_man_arrested,0.6325640595008593
+6,20,case_information_don_course_just,"[0, 2, 3, 5, 6, 7, 10]",7,area_traffic_forces_blockades_climate,19,case_don_information_course_just,0.6280698576846488
+5,19,case_don_information_course_just,"[0, 2, 3, 5, 6, 10]",18,case_information_contact_assembly_course,2,don_yes_exactly_mean_just,0.610409200878996
+4,18,case_information_contact_assembly_course,"[0, 3, 5, 6, 10]",6,unfortunately_missions_legal_provide_information,17,case_information_assembly_contact_report,0.5767220644294677
+3,17,case_information_assembly_contact_report,"[0, 3, 5, 10]",16,case_assembly_course_don_information,10,contact_station_gv_send_polizei,0.5739041202375914
+2,16,case_assembly_course_don_information,"[0, 3, 5]",0,series_language_don_perplexed_ingrained,15,assembly_case_course_information_law,0.5728108471552267
+1,15,assembly_case_course_information_law,"[3, 5]",3,operations_warn_density_comment_danger,5,assembly_law_act_criminal_provisions,0.5671896181664458
+0,14,way_person_takes_noise_care,"[1, 4]",4,alarm_ludwig_noise_paula_ulrich,1,way_rescue_accident_julius_apartment,0.5515773296384495

@@ -1,4 +1,0 @@
-,Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
-2,6,road_accident_inform_trafficking_th,"[0, 1, 2, 3]",3,accident_traffic_road_restricted_inform,5,trafficking_th_drug_detained_normalized,0.7536019365513408
-1,5,trafficking_th_drug_detained_normalized,"[0, 1, 2]",4,th_normalized_detained_circulation_parish,2,arrested_trafficking_drug_release_theft,0.597926396474006
-0,4,th_normalized_detained_circulation_parish,"[0, 1]",1,normalized_situation_command_detained_metropolitan,0,psp_lisboa_comando_metropolitano_metropolitan,0.5503573215314819

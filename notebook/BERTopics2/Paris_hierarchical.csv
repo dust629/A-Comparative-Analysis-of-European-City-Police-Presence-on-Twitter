@@ -1,4 +1,0 @@
-,Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
-2,6,paris_night_yesterday_individuals_cannabis,"[0, 1, 2, 3]",3,year_march_day_paris_trucks,5,paris_night_yesterday_individuals_cannabis,0.7058006987875352
-1,5,paris_night_yesterday_individuals_cannabis,"[0, 1, 2]",4,paris_cannabis_kg_night_arrests,2,arrested_woman_victim_individual_individuals,0.5034354215333207
-0,4,paris_cannabis_kg_night_arrests,"[0, 1]",1,don_know_advice_emergency_scam,0,police_arrests_cannabis_paris_kg,0.4969117458542086

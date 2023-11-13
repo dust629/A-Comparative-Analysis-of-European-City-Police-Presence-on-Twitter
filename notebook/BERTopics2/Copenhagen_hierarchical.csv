@@ -1,4 +1,0 @@
-,Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
-2,6,year_old_night_today_yesterday,"[0, 1, 2, 3]",3,driving_km_fined_speed_license,5,year_old_today_night_case,0.48871643593034686
-1,5,year_old_today_night_case,"[0, 1, 2]",4,currently_connection_present_remember_night,1,year_old_arrested_man_charged,0.4456522115070689
-0,4,currently_connection_present_remember_night,"[0, 2]",2,traffic_closed_open_rdhuspladsen_boulevard,0,police_present_good_area_currently,0.421962324089582

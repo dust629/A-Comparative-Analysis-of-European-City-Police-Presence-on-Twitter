@@ -1,5 +1,0 @@
-,Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
-3,8,night_suspect_information_injured_house,"[0, 1, 2, 3, 4]",4,black_approach_dark_jacket_tinted,7,night_suspect_information_injured_house,0.7813562817299223
-2,7,night_suspect_information_injured_house,"[0, 1, 2, 3]",6,night_suspect_information_injured_house,3,wanted_arrests_integral_home_days,0.706203900263146
-1,6,night_suspect_information_injured_house,"[0, 1, 2]",2,share_information_case_read_rr,5,night_suspect_injured_information_house,0.6858732865498965
-0,5,night_suspect_injured_information_house,"[0, 1]",0,police_looking_amsterdam_man_witnesses,1,images_wanted_arrested_robbery_options,0.42626132765563285

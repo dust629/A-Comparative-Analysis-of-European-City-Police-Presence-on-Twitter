@@ -1,9 +1,0 @@
-,Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
-7,16,august_december_february_january_drunk,"[0, 1, 2, 3, 4, 5, 6, 7, 8]",6,people_camera_police_surveillance_prison,15,august_december_february_january_drunk,0.9192808640176908
-6,15,august_december_february_january_drunk,"[0, 1, 2, 3, 4, 5, 7, 8]",14,august_december_february_drunk_january,8,control_person_vehicle_31_february,0.47018404849718043
-5,14,august_december_february_drunk_january,"[0, 1, 2, 3, 4, 5, 7]",13,december_august_drunk_february_january,4,murder_attempt_official_burglary_violence,0.41116633293464455
-4,13,december_august_drunk_february_january,"[0, 1, 2, 3, 5, 7]",7,fylleri_lob_knivlagen_hleri_ordningslagen,12,august_december_drunk_february_personal,0.4099245218781502
-3,12,august_december_drunk_february_personal,"[0, 1, 2, 3, 5]",2,sdertlje_fylleri_lob_sigtuna_norrtlje,11,drunk_february_august_december_personal,0.2845055588683876
-2,11,drunk_february_august_december_personal,"[0, 1, 3, 5]",10,february_drunk_september_injury_personal,1,mishandel_brand_stockholm_updated_stld,0.2257561107767445
-1,10,february_drunk_september_injury_personal,"[0, 3, 5]",3,february_offence_rn_botkyrka_robbery,9,drunk_september_personal_injury_driving,0.22563736066986373
-0,9,drunk_september_personal_injury_driving,"[0, 5]",5,september_protection_morality_solna_illegal,0,drunk_driving_neck_accident_personal,0.20731435662999387
