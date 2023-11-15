@@ -1,9 +1,3 @@
-# Readme
-
-## Structure
-### Notebooks:
-All the analysis is made by using the rescues in the notebooks folder.
-This folder contains codes in 3 jupyter notebooks; twitter account related documentation; used collected twitter data and cleaned tweets data; generated plots and topic modelling results. 
 
 README.md in notebooks:
 * tweets_collection_preprocess.ipynb:
@@ -29,12 +23,6 @@ In this notebook the original twitter data is collected via API and stored in `d
 -data/tweets/topically_processed_search_tweets/
 -data/tweets/topically_processed_account_tweets/::
 
-
-# TODO
-
-- document all codes and function[notebooks]
-- document overall readme for repository
-- find preprocessing code for _translated tweets_ and _topically preprocces_
 
 
 https://github.com/ravinitheshreddy/Enriching-RICH-Data/tree/main
