@@ -12,9 +12,11 @@ This study comprehensively analyses 21 Twitter accounts from city police departm
 ---
 ### [01] documentation
 
-### [02] notebooks
-In notebook are codes for data collection, plots making and topic modelling:
+Here is the thesis itself saved as the `report.pdf` and the thesis denfense slieds `presentation.pdf`. 
 
+### [02] notebooks
+In notebook are all codes used for thesis for data collection, data prepocess and analysis with plots making and topic modelling. The excution order is:
+- 
 - tweets_collection.ipynb: Collecting tweets with Twittwer API
 - plots_4-6.ipynb: Making plots in chapter 4 to chapter 6
 - context_analysis_7.ipynb: Topic modelling and sentimental anlysis for chapter 7
