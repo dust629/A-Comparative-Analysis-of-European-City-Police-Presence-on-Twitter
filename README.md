@@ -45,8 +45,7 @@ The result from analysis stored here,
 Get real data in [link](...) and run code in notebooks with result saved in `analysis_result`
 
 ## Repository Tree
----
-├── README.md
+.
 ├── account_information
 ├── analysis_result
 │   ├── BERTopics2
@@ -75,9 +74,8 @@ Get real data in [link](...) and run code in notebooks with result saved in `ana
 │   ├── presentation.pdf
 │   ├── report.pdf
 │   └── search-tweets-select-flow.png
-└── notebooks
-    ├── context_analysis_7.ipynb
-    ├── plots_4-6.ipynb
-    └── tweets_collection_preprocess.ipynb
-
-
+├── notebooks
+│   ├── context_analysis_7.ipynb
+│   ├── plots_4-6.ipynb
+│   └── tweets_collection_preprocess.ipynb
+└── README.md
