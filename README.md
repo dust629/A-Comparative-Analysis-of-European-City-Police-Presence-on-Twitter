@@ -42,10 +42,42 @@ The result from analysis stored here,
 
 ## Usage
 ---
-
+Get real data in [link](...) and run code in notebooks with result saved in `analysis_result`
 
 ## Repository Tree
 ---
-
+├── README.md
+├── account_information
+├── analysis_result
+│   ├── BERTopics2
+│   ├── plots
+│   ├── senti_res3_account
+│   └── senti_res3_search
+├── data
+│   ├── collected_twitter
+│   │   ├── added_account_tweets
+│   │   ├── added_search_tweets
+│   │   ├── keys
+│   │   └── profile
+│   └── tweets
+│       ├── all_account_city
+│       ├── all_search_city
+│       ├── all_search_city21
+│       ├── filter_search
+│       ├── processed_account_tweets
+│       ├── processed_search_tweets
+│       ├── topically_processed_account_tweets
+│       ├── topically_processed_search_tweets
+│       ├── translated_account_city
+│       └── translated_search_city
+├── documentation
+│   ├── account-select-flow.png
+│   ├── presentation.pdf
+│   ├── report.pdf
+│   └── search-tweets-select-flow.png
+└── notebooks
+    ├── context_analysis_7.ipynb
+    ├── plots_4-6.ipynb
+    └── tweets_collection_preprocess.ipynb
 
 
